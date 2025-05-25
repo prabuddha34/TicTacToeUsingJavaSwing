@@ -30,4 +30,6 @@ A simple GUI-based Tic-Tac-Toe game built using **Java Swing**. This project dem
 - An IDE like IntelliJ IDEA, Eclipse, or VS Code (or just a terminal)
 
 ### Screenshot
+![Screenshot 2025-05-25 110707](https://github.com/user-attachments/assets/0c9f9ec4-4cec-42ec-8166-c946e735e421)
+
 
