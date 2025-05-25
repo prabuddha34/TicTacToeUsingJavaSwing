@@ -29,10 +29,5 @@ A simple GUI-based Tic-Tac-Toe game built using **Java Swing**. This project dem
 - Java JDK 8 or later installed
 - An IDE like IntelliJ IDEA, Eclipse, or VS Code (or just a terminal)
 
-### Run Instructions
+### Screenshot
 
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/your-username/tic-tac-toe-java.git
-   cd tic-tac-toe-java
